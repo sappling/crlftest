@@ -11,4 +11,5 @@ dependencies {
    providedCompile 'com.controlj.green:directaccess-api-addon:1.1.0.+'
    providedCompile 'com.controlj.green:webaccess-api-addon:1.1.0.+'
    providedCompile 'javax.servlet:servlet-api:2.5'
+   providedCompile 'javax.servlet:servlet-api:2.5'
 }
